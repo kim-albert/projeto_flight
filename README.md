@@ -2,7 +2,9 @@
 Projeto criado para estudos utilizando Shell e Hive.
 <br>
 **Ambiente:** imagem cloudera 5.13.x
-<br>
+
+> Deve ser criado uma nova estrutura no Hive sempre que for executado e pipeline.
+
 **Entrada:** 3 arquivos CSV.
 <br>
 **Saida:** 7 views respondendo a perguntas especificas com base nos arquivos CSV.
